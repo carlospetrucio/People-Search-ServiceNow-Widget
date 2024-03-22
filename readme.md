@@ -101,11 +101,11 @@ To view the result, you must add the created widget to a ServicePortal or Employ
   <a href="https://www.facebook.com/CarlosPetrucioo" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
 
-  <a href="https://www.instagram.com/carlosfreeitas/" alt="Instagram">
+  <a href="https://www.instagram.com/_carlospetrucio/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
 </p>  
 
-[⬆ Back to the Top](#People-Search-ServiceNow-Widget)<br>
+[⬆ Back to the Top](#People-Search)<br>
 
 
 
