@@ -1,0 +1,39 @@
+
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="form-group mb-2" ng-controller="UserWidgetController as c">
+    <input class="form-control" type="text" ng-model="c.data.user_id"><br>
+    <button class="btn btn-primary" ng-click="c.searchUser()">Pesquisar</button>
+</div>
+<!-- --><br>
+
+<div class="container" ng-if="c.data.user_name">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class="well well-sm">
+                <div class="row">
+                    <div class="col-sm-6 col-md-4">
+                        <img src="https://dev95755.service-now.com/sys_attachment.do?sys_id={{c.data.photo}}" alt="" class="img-novo img-rounded img-responsive" />
+                    </div>
+                    <div class="col-sm-6 col-md-8">
+                        <h4>
+                            {{c.data.user_name}}</h4>
+                        <small><cite title="San Francisco, USA">{{c.data.location}} <i class="glyphicon glyphicon-map-marker">
+                        </i></cite></small>
+                        <p>
+                            <i class="glyphicon glyphicon-envelope"></i>{{c.data.email}}
+                            <br />
+                            <i class="glyphicon glyphicon-phone"></i><a href="http://www.jquery2dotnet.com">{{c.data.phone}}</a>
+                            <br />
+                            <i class="glyphicon glyphicon-user"></i>{{c.data.title}}</p>
+                        <!-- Split button -->
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
