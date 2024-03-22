@@ -71,3 +71,41 @@ Step 8 - Copy the contents of the file "Client Script.js" and paste it into "Cli
 ![image](https://github.com/carlospetrucio/People-Search-ServiceNow-Widget/assets/50377984/adb473a3-7657-4b7e-ae38-86f0951e65b8)
 </details>
 
+### ⚠️ How to add the widget to the portal  
+
+<details><summary><b>Show instructions</b></summary>
+It is important to remember that after creating the widget and its messages, you must still instantiate the widget in your portal. 
+
+To view the result, you must add the created widget to a ServicePortal or Employee Center page according to your needs, if you don't know how to add it, read the official documentation below
+
+* [How to Create a New Widget](https://docs.servicenow.com/bundle/tokyo-servicenow-platform/page/build/service-portal/task/create-new-widget.html)
+* [How to add widget in the existing page](https://www.servicenow.com/community/itsm-forum/how-to-add-widget-in-the-existing-page/m-p/485105)
+* [How to add widget in Service Portal or Employee Center](https://docs.servicenow.com/bundle/washingtondc-platform-user-interface/page/build/service-portal/concept/c_ConfigureWidgetInstances.html)
+
+</details>
+
+
+## ✍️ Created by
+<a href="https://www.linkedin.com/in/carlospetrucio/"> Carlos Petrucio </a>
+## ☕ You have a project and you need help, let's have some coffee 🥳
+<p align="left">
+  <a href="mailto:carlospetruciofreitasbarbosa@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
+
+  <a href="https://www.linkedin.com/in/carlospetrucio/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5511986053073" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/></a>
+
+  <a href="https://www.facebook.com/CarlosPetrucioo" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
+
+  <a href="https://www.instagram.com/carlosfreeitas/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
+</p>  
+
+[⬆ Back to the Top](#People-Search-ServiceNow-Widget)<br>
+
+
+
