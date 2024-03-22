@@ -27,5 +27,12 @@ Applications and Frameworks that I used to create the project.
 * [Angular](https://code.angularjs.org/1.5.3/docs/api) - JavaScript FrameWork with version 1.5.3.  
 
 
+### 🔧 Installation
+
+<details><summary><b>Show instructions</b></summary>
+  
+Step 1 - Download the project from github so that you have your version of the code and can customize it, if necessary.
+
+![image](https://github.com/carlospetrucio/People-Search-ServiceNow-Widget/assets/50377984/52558b56-7c7f-4360-a337-1a28eabc0c61)
 
 
