@@ -39,3 +39,16 @@ Step 1 - Download the project from github so that you have your version of the c
 ![image](https://github.com/carlospetrucio/People-Search-ServiceNow-Widget/assets/50377984/52558b56-7c7f-4360-a337-1a28eabc0c61)
 
 
+Step 2 - Using the filter navigator, search for the widget module inside Application menu Service Portal.    
+
+![image](https://github.com/carlospetrucio/People-Search-ServiceNow-Widget/assets/50377984/c2c8c6da-b3e1-4e7f-b3c0-aa93c89397fc)
+
+
+Step 3 - Use the "New" button to create a new widget.    
+
+![image](https://github.com/carlospetrucio/People-Search-ServiceNow-Widget/assets/50377984/0ad01cf1-c592-438c-a1a5-8428c632da78)
+
+Step 4 - Now you must define a name, description and “ID” for your widget, then click on the context menu and save. (Burger Menu)
+Remember to add the necessary role to the "roles" option if you want to limit the widget's display to certain types of users.
+
+![image](https://github.com/carlospetrucio/People-Search-ServiceNow-Widget/assets/50377984/a125ed48-82fb-45cb-ba45-e3483ab1856f)
